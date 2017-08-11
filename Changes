@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    - docs polish
 
 1.172230  2017-08-11 14:11:38+02:00 Europe/Berlin
     - first release

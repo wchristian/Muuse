@@ -23,8 +23,8 @@ use MooX::ShortHas ();
 
 =head1 DESCRIPTION
 
-Mu imports both Moo and MooX::ShortHas, making it even less work in typing and
-reading to set up an object.
+Mu imports both L<Moo> and L<MooX::ShortHas>, making it even less work in typing
+and reading to set up an object.
 
 =cut
 

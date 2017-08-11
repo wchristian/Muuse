@@ -23,8 +23,8 @@ use MooX::ShortHas ();
 
 =head1 DESCRIPTION
 
-Mu imports both Moo::Role and MooX::ShortHas, making it even less work in typing
-and reading to set up a role.
+Mu imports both L<Moo::Role> and L<MooX::ShortHas>, making it even less work in
+typing and reading to set up a role.
 
 =cut
 
