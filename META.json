@@ -73,11 +73,11 @@
    "provides" : {
       "Mu" : {
          "file" : "lib/Mu.pm",
-         "version" : "0.000001"
+         "version" : "1.172230"
       },
       "Mu::Role" : {
          "file" : "lib/Mu/Role.pm",
-         "version" : "0.000001"
+         "version" : "1.172230"
       }
    },
    "release_status" : "stable",
@@ -92,7 +92,7 @@
          "web" : "https://github.com/wchristian/Mu"
       }
    },
-   "version" : "0.000001",
+   "version" : "1.172230",
    "x_contributors" : [
       "mst - Matt S. Trout (cpan:MSTROUT) <mst@shadowcat.co.uk>"
    ],
