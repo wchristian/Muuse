@@ -6,7 +6,7 @@ Mu - Moo but with less typing
 
 =head1 VERSION
 
-version 1.172230
+version 1.172231
 
 =head1 SYNOPSIS
 
