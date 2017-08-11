@@ -8,6 +8,20 @@ Mu - Moo but with less typing
 
 version 0.000001
 
+=head1 SYNOPSIS
+
+    use Mu;
+    
+    ro "hro";
+    lazy hlazy => sub { 2 };
+    rwp "hrwp";
+    rw "hrw";
+
+=head1 DESCRIPTION
+
+Mu imports both Moo and MooX::ShortHas, making it even less work in typing and
+reading to set up an object.
+
 =for :stopwords cpan testmatrix url annocpan anno bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
 
 =head1 SUPPORT

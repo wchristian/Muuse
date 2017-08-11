@@ -1,3 +1,7 @@
+requires "Import::Into" => "0";
+requires "Moo" => "0";
+requires "Moo::Role" => "0";
+requires "MooX::ShortHas" => "0";
 requires "perl" => "5.006";
 requires "strictures" => "2";
 

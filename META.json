@@ -47,6 +47,10 @@
       },
       "runtime" : {
          "requires" : {
+            "Import::Into" : "0",
+            "Moo" : "0",
+            "Moo::Role" : "0",
+            "MooX::ShortHas" : "0",
             "perl" : "5.006",
             "strictures" : "2"
          }
@@ -69,6 +73,10 @@
    "provides" : {
       "Mu" : {
          "file" : "lib/Mu.pm",
+         "version" : "0.000001"
+      },
+      "Mu::Role" : {
+         "file" : "lib/Mu/Role.pm",
          "version" : "0.000001"
       }
    },
