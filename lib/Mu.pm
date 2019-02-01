@@ -26,6 +26,16 @@ use MooX::ShortHas ();
 Mu imports both L<Moo> and L<MooX::ShortHas>, making it even less work in typing
 and reading to set up an object.
 
+=head1 SEE ALSO
+
+=over 4
+
+=item *
+
+L<Mus> - Mu but with slightly more typing and strict constructors
+
+=back
+
 =cut
 
 sub import {
