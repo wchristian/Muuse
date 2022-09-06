@@ -6,7 +6,7 @@ Muuse - Moose but with less typing
 
 =head1 VERSION
 
-version 1.191300
+version 1.222490
 
 =head1 SYNOPSIS
 
@@ -39,7 +39,7 @@ L<Mu> - the Moo module from whence this sprang
 =head2 Bugs / Feature Requests
 
 Please report any bugs or feature requests through the issue tracker
-at L<https://github.com/wchristian/Mu/issues>.
+at L<https://github.com/wchristian/Muuse/issues>.
 You will be notified automatically of any progress on your issue.
 
 =head2 Source Code
@@ -47,9 +47,9 @@ You will be notified automatically of any progress on your issue.
 This is open source software.  The code repository is available for
 public review and contribution under the terms of the license.
 
-L<https://github.com/wchristian/Mu>
+L<https://github.com/wchristian/Muuse>
 
-  git clone https://github.com/wchristian/Mu.git
+  git clone https://github.com/wchristian/Muuse.git
 
 =head1 AUTHOR
 

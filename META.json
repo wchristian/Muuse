@@ -72,26 +72,26 @@
    "provides" : {
       "Muuse" : {
          "file" : "lib/Muuse.pm",
-         "version" : "1.191300"
+         "version" : "1.222490"
       },
       "Muuse::Role" : {
          "file" : "lib/Muuse/Role.pm",
-         "version" : "1.191300"
+         "version" : "1.222490"
       }
    },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/wchristian/Mu/issues"
+         "web" : "https://github.com/wchristian/Muuse/issues"
       },
-      "homepage" : "https://github.com/wchristian/Mu",
+      "homepage" : "https://github.com/wchristian/Muuse",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/wchristian/Mu.git",
-         "web" : "https://github.com/wchristian/Mu"
+         "url" : "https://github.com/wchristian/Muuse.git",
+         "web" : "https://github.com/wchristian/Muuse"
       }
    },
-   "version" : "1.191300",
+   "version" : "1.222490",
    "x_contributors" : [
       "mst - Matt S. Trout (cpan:MSTROUT) <mst@shadowcat.co.uk>"
    ],
