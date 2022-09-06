@@ -6,13 +6,13 @@ use Test::More;
 BEGIN {
 
     package MainRole;
-    use Mu::Role;
+    use Muuse::Role;
     use Test::More;
     ro "roletest";
     ok( MainRole->can( $_ ), "role can do $_" ) for qw( ro lazy rwp rw );
 }
 
-use Mu;
+use Muuse;
 
 ro "test";
 ok( main->can( $_ ), "class can do $_" ) for qw( ro lazy rwp rw );

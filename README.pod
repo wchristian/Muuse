@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-Mu - Moo but with less typing
+Muuse - Moose but with less typing
 
 =head1 VERSION
 
@@ -10,7 +10,7 @@ version 1.191300
 
 =head1 SYNOPSIS
 
-    use Mu;
+    use Muuse;
     
     ro "hro";
     lazy hlazy => sub { 2 };
@@ -19,8 +19,8 @@ version 1.191300
 
 =head1 DESCRIPTION
 
-Mu imports both L<Moo> and L<MooX::ShortHas>, making it even less work in typing
-and reading to set up an object.
+Muuse imports both L<Moose> and L<MooseX::ShortHas>, making it even less work in
+typing and reading to set up an object.
 
 =head1 SEE ALSO
 
@@ -28,11 +28,11 @@ and reading to set up an object.
 
 =item *
 
-L<Mus> - Mu but with slightly more typing and strict constructors
+L<Mu> - the Moo module from whence this sprang
 
 =back
 
-=for :stopwords cpan testmatrix url annocpan anno bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
+=for :stopwords cpan testmatrix url bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
 
 =head1 SUPPORT
 
